@@ -695,9 +695,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Alriosa Code Repo\\PatronesLab\\Main\\Main\\Main.csproj",
-      "projectName": "Main",
-      "projectPath": "D:\\Alriosa Code Repo\\PatronesLab\\Main\\Main\\Main.csproj",
+      "projectUniqueName": "D:\\Alriosa Code Repo\\PatronesLab\\Main\\Main\\BeerFactory.csproj",
+      "projectName": "BeerFactory",
+      "projectPath": "D:\\Alriosa Code Repo\\PatronesLab\\Main\\Main\\BeerFactory.csproj",
       "packagesPath": "C:\\Users\\Alriosa\\.nuget\\packages\\",
       "outputPath": "D:\\Alriosa Code Repo\\PatronesLab\\Main\\Main\\obj\\",
       "projectStyle": "PackageReference",
