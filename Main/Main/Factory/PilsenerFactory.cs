@@ -2,10 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace BeerFactory.Interfaces
+namespace BeerFactory.Factory
 {
-    public interface IBeer
+    class PilsenerFactory
     {
-        string giveBeer();
     }
 }

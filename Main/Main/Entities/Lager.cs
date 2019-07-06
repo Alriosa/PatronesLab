@@ -5,14 +5,21 @@ using System.Text;
 
 namespace BeerFactory.Entities
 {
-    public class Lager : Beer
+    public class Lager
     {
-     
-        public Lager(string name, string type, string alcohol) : base(name, type, alcohol)
+        private string name;
+        private string type;
+        private string alcohol;
+
+        public Lager()
         {
-            this.getName = "Lagerazor";
-            this.getType = "Lager";
-            this.getAlcohol = "4% Alcohol";
+        }
+
+        public Lager(string name, string type, string alcohol)
+        {
+            this.name = name;
+            this.type = type;
+            this.alcohol = alcohol;
         }
     }
 }

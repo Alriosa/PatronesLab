@@ -4,13 +4,12 @@ using System.Text;
 
 namespace BeerFactory.Entities
 {
-    class Pilsener : Beer
+    class Pilsener 
     {
-        public Pilsener(string name, string type, string alcohol) : base(name, type, alcohol)
+        public Pilsener()
         {
-            this.getName = "Pilserazor";
-            this.getType = "Pilser";
-            this.getAlcohol = "6% Alcohol";
+
         }
+
     }
 }
